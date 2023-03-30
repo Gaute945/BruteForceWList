@@ -6,7 +6,7 @@
 ##### Change password for LoginPage
 1. Open LoginPage.html in an editor
 2. Goto line 22
-3. Change password === '{}'
+3. Change [ password === '{}' ]
 
 ##### Credit for the word lists
 * 10-million-password-list-top-1000000

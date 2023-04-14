@@ -1,12 +1,13 @@
 # __BruteForceWList__
 ##### How to use
-1. Launch LoginPage.html & BruteForceDictonary.py/V2/V3
-2. Click the textbox in LoginPage.html
+1. pip install requirements.txt
+2. Launch LoginPage.html & BruteForceDictonary.py/V2/V3
+3. Click the textbox in LoginPage.html
 
 ##### Change password for LoginPage
 1. Open LoginPage.html in an editor
 2. Goto line 22
-3. Change [ password === '{}' ]
+3. Change password === {}
 
 ##### Credit for the word lists
 * 10-million-password-list-top-1000000
